@@ -69,3 +69,6 @@ Include your sample input and output here
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
+
+
+
